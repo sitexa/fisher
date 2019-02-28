@@ -14,8 +14,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>fisher-log-spring-boot-starter-parent</module>
-        <module>fisher-log-spring-boot-starter-parent</module>
-        <module>fisher-log-spring-boot-starter-parent</module>
     </modules>
 
 

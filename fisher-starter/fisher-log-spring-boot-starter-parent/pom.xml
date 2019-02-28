@@ -9,7 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.fisher.starter</groupId>
     <artifactId>fisher-log-spring-boot-starter-parent</artifactId>
     <packaging>pom</packaging>
     <modules>
